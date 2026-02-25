@@ -41,11 +41,14 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+<<<<<<< HEAD
 node_modules/
 output/
 .env
 coverage/
 playwright-report/
+=======
+>>>>>>> bc8836fe014a129131a1718a9eff45a3aa8e782d
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
